@@ -45,7 +45,7 @@ TalkGo读书会笔记（TalkGo 读书会第一期：Linux 性能优化实战 by 
 ![linux性能工具](./asserts/linux_perf_tools_full.png)
 [图片来源](http://www.brendangregg.com/Perf/linux_perf_tools_full.png)
 
-# 第1阶段（CPU性能）
+# 第1阶段（CPU性能）[CPU读书笔记](https://github.com/go-kronos/talkgo/blob/master/wiki/cpu.md)
 
 ## 《[02 | 基础篇：到底应该怎么理解“平均负载”？](https://time.geekbang.org/column/article/69618)》
 
