@@ -42,8 +42,16 @@ TalkGo读书会笔记（TalkGo 读书会第一期：Linux 性能优化实战 by 
 
 **更好的方法**：首先理解应用程序和系统的少数几个基本原理，实战，建立起性能全局观，然后掌握一些必要的性能工具。
 
-
 # 第1阶段（CPU性能）[CPU读书笔记](https://github.com/go-kronos/talkgo/blob/master/wiki/cpu.md)
+
+# 第2阶段（CPU性能）[内存篇读书笔记](https://github.com/go-kronos/talkgo/blob/master/wiki/内存.md)
+
+
+
+
+
+
+
 <!-- 
 ## 《[02 | 基础篇：到底应该怎么理解“平均负载”？](https://time.geekbang.org/column/article/69618)》
 
