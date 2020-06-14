@@ -44,8 +44,9 @@ TalkGo读书会笔记（TalkGo 读书会第一期：Linux 性能优化实战 by 
 
 # 第1阶段（CPU性能）[CPU读书笔记](https://github.com/go-kronos/talkgo/blob/master/wiki/cpu.md)
 
-# 第2阶段（CPU性能）[内存篇读书笔记](https://github.com/go-kronos/talkgo/blob/master/wiki/内存.md)
+# 第2阶段（内存）[内存篇读书笔记](https://github.com/go-kronos/talkgo/blob/master/wiki/内存.md)
 
+# 第3阶段（IO）[IO篇读书笔记](https://github.com/go-kronos/talkgo/blob/master/wiki/io.md)
 
 
 
